@@ -1,0 +1,20 @@
+.backgound
+{
+    background-color: aqua;
+    opacity: .03;
+}
+.shop
+{
+    flex-basis: 16%;
+    border: 1px dotted crimson;
+    padding: 0em;
+    margin: .5em;
+    text-align: left;
+}
+.list
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
